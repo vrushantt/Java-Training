@@ -1,0 +1,4 @@
+interface employee {
+
+    void salary();
+}
